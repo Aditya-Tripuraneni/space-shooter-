@@ -1,9 +1,3 @@
-"""Author: Aditya Neel Tripuraneni
-   Date: 09/19/21
-   Finish Date: 11/06/21
-   Worked on approximately once a week
-   Program Description: Play as a spaceship and shoot the enemy square.
-"""
 import pygame
 
 pygame.init()
@@ -243,7 +237,7 @@ pygame.quit()
 
 """TO DO:
 -------------------------------------------------
-   - shooting lasers
+
 -------------------------------------------------
    """
 
